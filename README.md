@@ -28,3 +28,5 @@ pip install -r requirements.txt
 5.Запустити сервер:
 ```bash
 python manage.py runserver
+
+API Postman колекція знаходиться у файлі [`postman/SpyCats_API_collection.json`](./postman/SpyCats_API_collection.json). Імпортуйте його у Postman для тестування.
